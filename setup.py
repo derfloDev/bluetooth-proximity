@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='bt_rssi',
+setup(name='bt_proximity',
     version='0.1',
     description="Detects if a Bluetooth device is near by querying its RSSI value",
     url='',
