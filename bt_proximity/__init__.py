@@ -1,1 +1,1 @@
-from bt_rssi import BluetoothRSSI
+from bt_proximity import BluetoothRSSI
